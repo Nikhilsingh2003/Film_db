@@ -1,1 +1,1 @@
-Clone this repo Git clone url
+Clone this repo Git clone <url>
